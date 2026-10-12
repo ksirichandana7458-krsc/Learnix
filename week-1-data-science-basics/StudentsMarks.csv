@@ -1,0 +1,13 @@
+﻿Studentid,Name,Subject,Marks,Studyhours,Attendance
+1,Aarav,Python,85,6,95
+2,Diya,Python,78,4,88
+3,Rohan,Python,92,8,98
+4,Sneha,Python,66,3,72
+5,Kiran,Python,,5,80
+6,Meera,Python,88,7,92
+7,Arjun,Statistics,81,6,90
+8,Nisha,Statistics,73,4,85
+9,Vikram,Statistics,95,9,99
+10,Priya,Statistics,69,3,70
+11,Sameer,Statistics,84,6,88
+12,Ananya,Statistics,90,8,96
